@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contoiner{
+    width: 800px;
+    margin: 0 auto;
+}
+.flexbox{
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+}
+h1{
+    margin: 20px auto;
+    margin-left: 22%;
+}
+.read{
+    width: 800px;
+    height: 300px;
+    display: flex;
+    margin-top: 70px;
+    border: 1px solid black;
+    justify-content: space-between;
+}
+.amirxon{
+    width: 180px;
+    height: 270px;
+    border: 1px solid black;
+
+}
+.sultan{
+    width: 180px;
+    height: 270px;
+    border: 1px solid black;
+
+}
+.shuhrat{
+    width: 180px;
+    height: 270px;
+    border: 1px solid black;
+
+}
+.amirxon1{
+    width: 180px;
+    height: 270px;
+    border: 1px solid black;
+
+}
